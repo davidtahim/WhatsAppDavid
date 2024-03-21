@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912849586492",
+    "project_id": "whatsapp-david",
+    "storage_bucket": "whatsapp-david.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912849586492:android:0e5d7fb8202f506d023639",
+        "android_client_info": {
+          "package_name": "com.senac.whatsappdavid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWTtYu6o1BeHikHzRGMfnZ8A4lMhaEuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
